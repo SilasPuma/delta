@@ -1,3 +1,4 @@
+![image](https://github.com/SilasPuma/delta/assets/114674696/475a60ee-bce0-4c0a-8b3b-6e8158f4c295)
 # Delta Emulator
 
 ## Installation
